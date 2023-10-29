@@ -1,2 +1,2 @@
 # Lista 03
-Lista de Exercícios de Aplicativos de Console em C# utilizando Structs
+Lista de Exercícios em C# utilizando Structs
